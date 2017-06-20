@@ -4,7 +4,12 @@
 	"instance" : {
 		"database" : "RichardPillar 2/10/2017 08:17",
 		"database:" : "RichardPillar 2/10/2017 08:17",
+		"delete:with:" : "RichardPillar 3/30/2017 20:24",
 		"initialize" : "RichardPillar 2/10/2017 08:19",
 		"insert:fields:with:" : "RichardPillar 2/10/2017 08:19",
+		"query:" : "RichardPillar 4/4/2017 18:46",
 		"query:on:" : "RichardPillar 2/10/2017 08:20",
-		"query:with:on:" : "RichardPillar 2/10/2017 08:20" } }
+		"query:with:" : "RichardPillar 6/3/2017 23:57",
+		"query:with:on:" : "RichardPillar 2/10/2017 08:20",
+		"update:" : "RichardPillar 3/17/2017 08:06",
+		"update:on:with:" : "RichardPillar 3/18/2017 22:11" } }
