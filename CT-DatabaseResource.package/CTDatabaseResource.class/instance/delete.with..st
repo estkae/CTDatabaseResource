@@ -1,4 +1,4 @@
-as yet unclassified
+delete
 delete: aTable with: anObject
 	
 	| myDb  myQueryString |

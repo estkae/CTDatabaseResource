@@ -1,4 +1,4 @@
-as yet unclassified
+insert
 insert: aTable fields: aFieldsArray with: anArgsArray
 
 	| query myDb myFieldsString myValuesString |

@@ -1,4 +1,4 @@
-as yet unclassified
+query
 query: aQuery with: argsArray on: aModel
 
 	| myClass myData myDb myInstVars myInstSize myObj |

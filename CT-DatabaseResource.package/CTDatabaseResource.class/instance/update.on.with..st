@@ -1,4 +1,4 @@
-as yet unclassified
+update
 update: aTable on: aModel with: anObject
 
 	"pass in a populated model object - process"

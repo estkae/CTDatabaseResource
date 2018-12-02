@@ -1,4 +1,4 @@
-as yet unclassified
+query
 query: aQuery with: anArgsArray
 
 	"a query with a specific set of responses based on the <arguments> passed in. 'myData' is a <resultset> which is why <next> is required to retrieve 

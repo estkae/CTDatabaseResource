@@ -1,4 +1,4 @@
-as yet unclassified
+query
 query: aQuery
 
 	"a query with a specific set of responses. 	'myData' is a <resultset> which is why <next> is required to retrieve 
